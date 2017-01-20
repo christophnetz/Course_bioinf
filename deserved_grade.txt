@@ -1,15 +1,19 @@
-The Grade I deserve is an 8,
+The Grade I deserve is an 7,
 because I thoroughly explored the abilities of GitHub and git.
  Among others, I
 -created a README.md including pictures
 -Put a to do list into this repository issues
--Added a license
--Added a .gitignore file to my repository
--closed issues
--made multiple commits with meaningful messages
--fixed a merge conflict
+-Added a license to this repository
+-Added a .gitignore file to this repository
+-closed issues (Lumphie/Fairytale_test)
+-made multiple commits with meaningful messages (Lumphie/Fairytale_test, richelbilderbeek/pbdmms)
+-fixed a merge conflict (Lumphie/Fairytale_test)
 -Created more branches
 
 Also I added a profile picture, 
 became a collaborator at Lumphie/Fairytale_test,
-posted an issue at
+posted an issue at a foreign GitHub (Inne-Lemstra/Bible_Reader)
+forked a GitHub(christophnetz/bioinformatics_2016/2017)
+Successful pull request (Lumphie/Fairytale_test, brach1/master)
+Followed people,
+starred a GitHub project(richelbilderbeek / travis_example_pipeline)
