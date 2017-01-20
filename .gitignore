@@ -1,0 +1,7 @@
+# fasta files
+*.fas
+*.fasta
+
+# Executables
+*.out
+*.exe
