@@ -1,1 +1,15 @@
-The Grade I deserve is
+The Grade I deserve is an 8,
+because I thoroughly explored the abilities of GitHub and git.
+ Among others, I
+-created a README.md including pictures
+-Put a to do list into this repository issues
+-Added a license
+-Added a .gitignore file to my repository
+-closed issues
+-made multiple commits with meaningful messages
+-fixed a merge conflict
+-Created more branches
+
+Also I added a profile picture, 
+became a collaborator at Lumphie/Fairytale_test,
+posted an issue at
